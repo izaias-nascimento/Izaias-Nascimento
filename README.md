@@ -1,10 +1,10 @@
-### Olá! Eu sou Izaias Nascimento, desenvolvedor Java, Python, React, Angular, TypeScript, JavaScrypt, Banco Relacional 👋
+### Olá! Eu sou Izaias Nascimento, desenvolvedor C#, Caché Object Script, JavaScript Python apaixonado por tecnologia   👋
 
 
 
-- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Software.
+- 🔭 Cursei Redes de Computadores e Gestão da tecnologia da informação.
 - 🌱 Estou sempre buscando conhecimento, especialmente em Back-end.
-- ☕ Java e 🐍 Python são algumas das minhas linguagens de programação favoritas.
+- ☕ C#, JavaScript, Caché Object Script são algumas das minhas linguagens de programação favoritas.
 
 
 
